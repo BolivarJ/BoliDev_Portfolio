@@ -29,7 +29,7 @@ export const AboutSection = () => {
                                 Get in Touch
                             </a>
 
-                            <a href='CV/JhormanNewCv25.pdf'
+                            <a href='/JhormanNewCv25.pdf'
                                 download={'Hoja_De_Vida_Jhorman.pdf'}
                                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300" >
                                 Download CV
