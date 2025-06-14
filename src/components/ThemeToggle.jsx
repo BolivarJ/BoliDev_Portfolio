@@ -35,13 +35,12 @@ export const ThemeToggle = () => {
                 className={cn(
                     "fixed z-50 p-2 rounded-full transition-colors duration-300",
                     "focus:outline-none",
-                    // --- Estilos para móviles (max-sm) ---
-                    // AQUÍ ESTÁ EL CAMBIO: Lo subimos un poco más
-                    "max-sm:bottom-15", // Antes era 'bottom-5', ahora 'bottom-8' (32px desde abajo)
+                    
+                    "max-sm:top-13", 
                     "max-sm:right-1",
-                    "max-sm:top-auto",
+                    "max-sm:bottom-auto",
 
-                    // --- Estilos para desktop y tablets (sm y superior) ---
+                    // --- Estilos para desktop y tablets  ---
                     "sm:top-5",
                     "sm:right-5",
                     "sm:bottom-auto"
