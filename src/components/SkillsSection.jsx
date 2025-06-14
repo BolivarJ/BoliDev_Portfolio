@@ -20,8 +20,8 @@ const skills = [
     // cibersecurity Skills
     { name: 'CraxsRat', level: 50, category: 'cibersecurity' },
     { name: 'Anarchy Panel', level: 50, category: 'cibersecurity' },
-    { name: 'Parrot OS', level: 30, category: 'cibersecurity' },
     { name: 'XWorm', level: 50, category: 'cibersecurity' },
+    { name: 'Parrot OS', level: 30, category: 'cibersecurity' },
 
 
     // Tools and Technologies
